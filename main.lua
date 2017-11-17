@@ -3,7 +3,8 @@
 function love.load()
   
   love.window.setTitle('stars')
-  width, height = love.graphics.getDimensions( ) -- get window dimensions
+  -- get window dimensions
+  width, height = love.graphics.getDimensions( )
   listOfPoints = {}
   listOfLines = {}
 
