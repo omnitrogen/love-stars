@@ -4,4 +4,4 @@
 
 Stars and shooting stars with löve.
 
-Download löve [HERE](https://love2d.org/). 
+Download löve [HERE](https://love2d.org/) :star:
